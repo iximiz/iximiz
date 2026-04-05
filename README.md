@@ -21,6 +21,12 @@ I’m currently focused on building skills in AWS and exploring modern cloud inf
 
 ---
 
+## 🌐 Portfolio
+Check out my personal portfolio website showcasing my projects and skills:
+🔗 https://github.com/iximiz/github-portfolio
+
+---
+
 ## 📫 How to Reach Me
 - Email: muamirulaiman@gmail.com  
 - LinkedIn: www.linkedin.com/in/amiruldzz  
